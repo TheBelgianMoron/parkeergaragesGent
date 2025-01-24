@@ -1,0 +1,22 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#parkingData{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+
+}
+
+.parking {
+    border: 0.16rem;
+    background-color: lightcyan;
+    border-radius: 1rem;
+    border-style: solid;
+    border-color: darkcyan;
+    padding: 1rem;
+    margin: 1rem;
+    text-align: center;
+    max-width: 20rem;
+
+}
